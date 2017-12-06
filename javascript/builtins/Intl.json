@@ -714,10 +714,12 @@
                   {
                     "version_added": "55",
                     "version_removed": "60",
-                    "flag": {
-                      "type": "runtime_flag",
-                      "name": "--datetime-format-to-parts"
-                    }
+                    "flags": [
+                      {
+                        "type": "runtime_flag",
+                        "name": "--datetime-format-to-parts"
+                      }
+                    ]
                   }
                 ],
                 "chrome_android": {
@@ -1097,18 +1099,22 @@
                 },
                 "chrome": {
                   "version_added": "63",
-                  "flag": {
-                    "type": "runtime_flag",
-                    "name": "harmony-number-format-to-parts"
-                  },
+                  "flags": [
+                    {
+                      "type": "runtime_flag",
+                      "name": "harmony-number-format-to-parts"
+                    }
+                  ],
                   "notes": "Need to set the flag on the commandline via --js-flags"
                 },
                 "chrome_android": {
                   "version_added": "63",
-                  "flag": {
-                    "type": "runtime_flag",
-                    "name": "harmony-number-format-to-parts"
-                  },
+                  "flags": [
+                    {
+                      "type": "runtime_flag",
+                      "name": "harmony-number-format-to-parts"
+                    }
+                  ],
                   "notes": "Need to set the flag on the commandline via --js-flags"
                 },
                 "edge": {

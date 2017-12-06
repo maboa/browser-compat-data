@@ -29,11 +29,13 @@
               {
                 "version_added": "24",
                 "version_removed": "50",
-                "flag": {
-                  "type": "preference",
-                  "name": "media.webvtt.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "media.webvtt.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -43,11 +45,13 @@
               {
                 "version_added": "24",
                 "version_removed": "50",
-                "flag": {
-                  "type": "preference",
-                  "name": "media.webvtt.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "media.webvtt.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -100,11 +104,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -114,11 +120,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -172,11 +180,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -186,11 +196,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -244,11 +256,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -258,11 +272,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -316,11 +332,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -330,11 +348,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -441,11 +461,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -455,11 +477,13 @@
                 {
                   "version_added": "24",
                   "version_removed": "50",
-                  "flag": {
-                    "type": "preference",
-                    "name": "media.webvtt.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "media.webvtt.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {

@@ -128,11 +128,13 @@
                 },
                 {
                   "version_added": "35",
-                  "flag": {
-                    "type": "preference",
-                    "name": "gfx.downloadable_fonts.woff2.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "gfx.downloadable_fonts.woff2.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -141,11 +143,13 @@
                 },
                 {
                   "version_added": "35",
-                  "flag": {
-                    "type": "preference",
-                    "name": "gfx.downloadable_fonts.woff2.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "gfx.downloadable_fonts.woff2.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {

@@ -144,11 +144,13 @@
                 {
                   "version_added": "47",
                   "version_removed": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "layout.css.clip-path-shapes.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "layout.css.clip-path-shapes.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -158,11 +160,13 @@
                 {
                   "version_added": "47",
                   "version_removed": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "layout.css.clip-path-shapes.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "layout.css.clip-path-shapes.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {
@@ -216,11 +220,13 @@
                 },
                 {
                   "version_added": "47",
-                  "flag": {
-                    "type": "preference",
-                    "name": "layout.css.clip-path-shapes.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "layout.css.clip-path-shapes.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "firefox_android": [
@@ -229,11 +235,13 @@
                 },
                 {
                   "version_added": "47",
-                  "flag": {
-                    "type": "preference",
-                    "name": "layout.css.clip-path-shapes.enabled",
-                    "value_to_set": "true"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "layout.css.clip-path-shapes.enabled",
+                      "value_to_set": "true"
+                    }
+                  ]
                 }
               ],
               "ie": {

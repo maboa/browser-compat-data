@@ -19,10 +19,12 @@
             },
             "edge_mobile": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "Experimental JavaScript Features"
-              }
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "Experimental JavaScript Features"
+                }
+              ]
             },
             "firefox": {
               "version_added": "52",
@@ -78,10 +80,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",
@@ -138,10 +142,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",
@@ -197,10 +203,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -257,10 +265,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -318,10 +328,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",
@@ -378,10 +390,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",
@@ -437,10 +451,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -497,10 +513,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -557,10 +575,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -618,10 +638,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",
@@ -677,10 +699,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -737,10 +761,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -797,10 +823,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -857,10 +885,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -918,10 +948,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",
@@ -978,10 +1010,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",
@@ -1037,10 +1071,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -1097,10 +1133,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -1157,10 +1195,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -1217,10 +1257,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -1277,10 +1319,12 @@
                 },
                 "edge_mobile": {
                   "version_added": true,
-                  "flag": {
-                    "type": "preference",
-                    "name": "Experimental JavaScript Features"
-                  }
+                  "flags": [
+                    {
+                      "type": "preference",
+                      "name": "Experimental JavaScript Features"
+                    }
+                  ]
                 },
                 "firefox": {
                   "version_added": "52",
@@ -1338,10 +1382,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",
@@ -1452,10 +1498,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",
@@ -1566,10 +1614,12 @@
               },
               "edge_mobile": {
                 "version_added": true,
-                "flag": {
-                  "type": "preference",
-                  "name": "Experimental JavaScript Features"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "Experimental JavaScript Features"
+                  }
+                ]
               },
               "firefox": {
                 "version_added": "52",

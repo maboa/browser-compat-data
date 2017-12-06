@@ -25,11 +25,13 @@
             },
             {
               "version_added": "41",
-              "flag": {
-                "type": "preference",
-                "name": "dom.w3c_pointer_events.enabled",
-                "value_to_set": "true"
-              }
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "dom.w3c_pointer_events.enabled",
+                  "value_to_set": "true"
+                }
+              ]
             }
           ],
           "firefox_android": [
@@ -38,11 +40,13 @@
             },
             {
               "version_added": "41",
-              "flag": {
-                "type": "preference",
-                "name": "dom.w3c_pointer_events.enabled",
-                "value_to_set": "true"
-              }
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "dom.w3c_pointer_events.enabled",
+                  "value_to_set": "true"
+                }
+              ]
             }
           ],
           "ie": [
@@ -112,11 +116,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -125,11 +131,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": [
@@ -199,11 +207,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -212,11 +222,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -270,11 +282,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -283,11 +297,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": [
@@ -355,11 +371,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -368,11 +386,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": [
@@ -440,11 +460,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -453,11 +475,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": [
@@ -525,11 +549,13 @@
               },
               {
                 "version_added": "54",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -538,11 +564,13 @@
               },
               {
                 "version_added": "54",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -596,11 +624,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -609,11 +639,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -667,11 +699,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -680,11 +714,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -738,11 +774,13 @@
               },
               {
                 "version_added": "54",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -751,11 +789,13 @@
               },
               {
                 "version_added": "54",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -809,11 +849,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -822,11 +864,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": [
@@ -894,11 +938,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "firefox_android": [
@@ -907,11 +953,13 @@
               },
               {
                 "version_added": "41",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.w3c_pointer_events.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.w3c_pointer_events.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {

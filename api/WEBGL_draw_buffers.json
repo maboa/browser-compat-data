@@ -24,11 +24,13 @@
               "prefix": "MOZ_",
               "version_added": true,
               "version_removed": "28",
-              "flag": {
-                "type": "preference",
-                "name": "webgl.enable-draft-extensions",
-                "value_to_set": "true"
-              }
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "webgl.enable-draft-extensions",
+                  "value_to_set": "true"
+                }
+              ]
             },
             {
               "version_added": "28"
@@ -86,11 +88,13 @@
                 "prefix": "MOZ_",
                 "version_added": true,
                 "version_removed": "28",
-                "flag": {
-                  "type": "preference",
-                  "name": "webgl.enable-draft-extensions",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "webgl.enable-draft-extensions",
+                    "value_to_set": "true"
+                  }
+                ]
               },
               {
                 "version_added": "28"

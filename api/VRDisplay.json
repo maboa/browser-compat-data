@@ -6,10 +6,12 @@
         "support": {
           "chrome": {
             "version_added": true,
-            "flag": {
-              "type": "preference",
-              "name": "WebVR"
-            },
+            "flags": [
+              {
+                "type": "preference",
+                "name": "WebVR"
+              }
+            ],
             "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
           },
           "edge": {
@@ -54,10 +56,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -103,10 +107,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -152,10 +158,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -201,10 +209,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -250,10 +260,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -299,10 +311,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -348,10 +362,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -397,10 +413,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -446,10 +464,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -495,10 +515,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -587,10 +609,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -672,10 +696,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -721,10 +747,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -770,10 +798,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -819,10 +849,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -868,10 +900,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -917,10 +951,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -966,10 +1002,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {

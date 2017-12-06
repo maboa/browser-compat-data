@@ -24,11 +24,13 @@
             {
               "version_added": "24",
               "version_removed": "28",
-              "flag": {
-                "type": "preference",
-                "name": "dom.gamepad.enabled",
-                "value_to_set": "true"
-              }
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "dom.gamepad.enabled",
+                  "value_to_set": "true"
+                }
+              ]
             }
           ],
           "ie": {
@@ -99,11 +101,13 @@
               {
                 "version_added": "24",
                 "version_removed": "28",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.gamepad.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.gamepad.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -175,11 +179,13 @@
               {
                 "version_added": "24",
                 "version_removed": "28",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.gamepad.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.gamepad.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -251,11 +257,13 @@
               {
                 "version_added": "24",
                 "version_removed": "28",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.gamepad.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.gamepad.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -309,10 +317,12 @@
           "support": {
             "chrome": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "WebVR"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "WebVR"
+                }
+              ],
               "notes": "Only works on desktop in an <a href='https://webvr.info/get-chrome/'>experimental version of Chrome</a> (other builds won't return any devices when <code>Navigator.getVRDisplays()</code> is invoked)."
             },
             "edge": {
@@ -358,11 +368,13 @@
             },
             "firefox": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "dom.gamepad-extensions.enabled",
-                "value_to_set": "true"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "dom.gamepad-extensions.enabled",
+                  "value_to_set": "true"
+                }
+              ],
               "notes": "The flag is enabled by default in Firefox Nightly and Beta, versions 55 and above."
             },
             "ie": {
@@ -415,11 +427,13 @@
             },
             "firefox": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "dom.gamepad-extensions.enabled",
-                "value_to_set": "true"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "dom.gamepad-extensions.enabled",
+                  "value_to_set": "true"
+                }
+              ],
               "notes": "The flag is enabled by default in Firefox Nightly and Beta, versions 55 and above."
             },
             "ie": {
@@ -484,11 +498,13 @@
               {
                 "version_added": "24",
                 "version_removed": "28",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.gamepad.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.gamepad.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -560,11 +576,13 @@
               {
                 "version_added": "24",
                 "version_removed": "28",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.gamepad.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.gamepad.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -636,11 +654,13 @@
               {
                 "version_added": "24",
                 "version_removed": "28",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.gamepad.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.gamepad.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
@@ -700,11 +720,13 @@
             },
             "firefox": {
               "version_added": true,
-              "flag": {
-                "type": "preference",
-                "name": "dom.gamepad-extensions.enabled",
-                "value_to_set": "true"
-              },
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "dom.gamepad-extensions.enabled",
+                  "value_to_set": "true"
+                }
+              ],
               "notes": "The flag is enabled by default in Firefox Nightly and Beta, versions 55 and above."
             },
             "ie": {
@@ -769,11 +791,13 @@
               {
                 "version_added": "24",
                 "version_removed": "28",
-                "flag": {
-                  "type": "preference",
-                  "name": "dom.gamepad.enabled",
-                  "value_to_set": "true"
-                }
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "dom.gamepad.enabled",
+                    "value_to_set": "true"
+                  }
+                ]
               }
             ],
             "ie": {
